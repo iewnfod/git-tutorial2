@@ -1,2 +1,3 @@
 This is the first line of this git repo!
 This is a line from the new branch!
+This is a test of resolve conflict in merge!
